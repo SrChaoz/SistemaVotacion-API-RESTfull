@@ -15,6 +15,7 @@ Instrucciondes de Ejecucion
 ![image](https://github.com/user-attachments/assets/48ec3b33-881a-4acd-a525-ce4573ec554d)
 
 8. podemos volver a la consola de la base de datos y verificar que la tabla se haya creado correctamente, deberia verse asi
+   
    ![image](https://github.com/user-attachments/assets/7c90ee1d-79b3-455d-abc9-38bf4c7c8274)
 9. Finalmete ya podemos probar este Backen Con insomnia o con Postman podemos hacer POST y GETS, por ejemplo
     ![image](https://github.com/user-attachments/assets/b3fdfc03-a862-4cf7-8509-f91c056ff3ec)
